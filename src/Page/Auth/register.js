@@ -66,18 +66,19 @@ export default function Register(){
             <Helmet>
                 <title>Recipe Website | Register</title>
             </Helmet>
-            <h5 className='text-center mb-5' style={{color: '#EFC81A'}}>WELCOME</h5>
+            <h5 className='text-center mb-5' style={{color: '#EFC81A'}}>Recipe..</h5>
             <h5 className='text-center' style={{color: '#EFC81A'}}>Let’s Get Started !</h5>
+            <p className='text-center' style={{color: '#8692A6'}}>Create new account to access all features</p>
             <div>
                 <Form onSubmit={postForm}>
                     <Form.Group className="mb-3" controlId="formBasicName">
                         <Form.Label>Name</Form.Label>
-                        <Form.Control name='name' required onChange={handleChange} className='w-100' type="text" placeholder="Username" />
+                        <Form.Control name='name' required onChange={handleChange} className='w-100' type="text" placeholder="Name" />
                     </Form.Group>
 
                     <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>Email</Form.Label>
-                        <Form.Control name='email' required onChange={handleChange} className='w-100' type="email" placeholder="Email address" />
+                        <Form.Control name='email' required onChange={handleChange} className='w-100' type="email" placeholder="Enter email address" />
                     </Form.Group>
 
                     <Form.Group className="mb-3" controlId="formBasicPassword">

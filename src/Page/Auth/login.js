@@ -8,7 +8,6 @@ import Form from 'react-bootstrap/Form';
 import { Helmet } from 'react-helmet';
 import Modal from 'react-bootstrap/Modal';
 import Loading from '../../Component/Loading'
-import Navbar from '../../Component/Navbar'
 
 let url = `${process.env.REACT_APP_API_URL}/auth/login`
 
@@ -56,13 +55,14 @@ export default function Login(){
             <Helmet>
                 <title>Recipe Website | Login</title>
             </Helmet>
-            <h5 className='text-center mb-5' style={{color: '#EFC81A'}}>WELCOME</h5>
-            <h5 className='text-center' style={{color: '#EFC81A'}}>RECIPES</h5>
+            <h5 className='text-center mb-5' style={{color: '#EFC81A'}}>Recipe..</h5>
+            <h5 className='text-center' style={{color: '#EFC81A'}}>Welcome</h5>
+            <p className='text-center' style={{color: '#8692A6'}}>Log in into your exiting account</p>
             <div>
                 <Form onSubmit={postForm}>
                     <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>Email</Form.Label>
-                        <Form.Control name='email' required onChange={handleChange} className='w-100' type="email" placeholder="Email address" />
+                        <Form.Control name='email' required onChange={handleChange} className='w-100' type="email" placeholder="Enter email address" />
                     </Form.Group>
 
                     <Form.Group className="mb-3" controlId="formBasicPassword">
