@@ -48,6 +48,9 @@ If you want to run this project locally, I recommend you to configure the <a hre
 | ![image](https://user-images.githubusercontent.com/126861853/240817424-561e04e6-a5bc-4a50-a6ac-8b6dc52077a7.png) | ![image](https://user-images.githubusercontent.com/126861853/240817430-24458eb8-c4a6-415d-a852-90017e12f588.png) |
 | Add Recipe                            | Edit Recipe                          |
 
-# Related Project
+## Related Project
 :rocket: [Backend Repo](https://github.com/fauzanilmi220/recipes)
+
+## Demo
+▶️: [Demo App](https://react-recipes-q14rovb4f-fauzanilmi220.vercel.app/home)
 
