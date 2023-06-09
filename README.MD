@@ -52,5 +52,5 @@ If you want to run this project locally, I recommend you to configure the <a hre
 :rocket: [Backend Repo](https://github.com/fauzanilmi220/recipes)
 
 ## Demo
-▶️: [Demo App](https://react-recipes-q14rovb4f-fauzanilmi220.vercel.app/home)
+▶️: [Demo App](https://react-recipes-seven.vercel.app/home)
 
