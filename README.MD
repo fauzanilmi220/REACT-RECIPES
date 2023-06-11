@@ -55,7 +55,7 @@ If you want to run this project locally, I recommend you to configure the <a hre
 
 5. Make new file in your project directory callad '.env' and copy this code to that file :
 ```bash
-  REACT_APP_API_URL=https://bright-hen-twill.cyclic.app
+  REACT_APP_API_URL=https://relieved-newt-boot.cyclic.app/
 ```
 6. Open Your URL Web server with command below
 ```bash
