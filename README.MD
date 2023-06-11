@@ -17,6 +17,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#documentation">Documentation</a></li>
     <li><a href="#related-project">Related Project</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -75,4 +76,7 @@ If you want to run this project locally, I recommend you to configure the <a hre
 
 ## Demo
 ▶️: [Demo App](https://react-recipes-seven.vercel.app/home)
+
+## License
+Distributed under the [MIT](/LICENSE) License.
 
