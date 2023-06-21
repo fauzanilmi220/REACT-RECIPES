@@ -70,6 +70,8 @@ If you want to run this project locally, I recommend you to configure the <a hre
 | Login                          | Register                             |
 | ![image](https://user-images.githubusercontent.com/126861853/240817424-561e04e6-a5bc-4a50-a6ac-8b6dc52077a7.png) | ![image](https://user-images.githubusercontent.com/126861853/240817430-24458eb8-c4a6-415d-a852-90017e12f588.png) |
 | Add Recipe                            | Edit Recipe                          |
+| ![image](https://user-images.githubusercontent.com/126861853/247628821-e5c21ae9-5f96-46e0-99dd-4d7c0ad6aa00.png) | ![image](https://user-images.githubusercontent.com/126861853/247628833-2c4b3105-25bd-452e-81dd-c718ebe2ec0a.png) |
+| Search Page                            | My Profile Page                          |
 
 ## Related Project
 :rocket: [Backend Repo](https://github.com/fauzanilmi220/recipes)
